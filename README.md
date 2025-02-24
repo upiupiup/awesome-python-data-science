@@ -1,8 +1,7 @@
 <div align="center">
     <a href="https://krzjoa.github.io/awesome-python-data-science/"><img width="250" height="250" src="img/py-datascience.png" alt="pyds"></a>
     <br>
-    <br>
-    <br>
+    <b    <br>
 </div>
 
 <h1 align="center">
@@ -18,8 +17,7 @@
 
 ## Contents
 - [Contents](#contents)
-- [Machine Learning](#machine-learning)
-	- [General Purpose Machine Learning](#general-purpose-machine-learning)
+- [Machine Learning](#machine-l	- [General Purpose Machine Learning](#general-purpose-machine-learning)
   	- [Gradient Boosting](#gradient-boosting)
 	- [Ensemble Methods](#ensemble-methods)
 	- [Imbalanced Datasets](#imbalanced-datasets)
@@ -35,10 +33,10 @@
 - [Natural Language Processing](#natural-language-processing)
 - [Computer Audition](#computer-audition)
 - [Computer Vision](#computer-vision)
-- [Time Series](#time-series)
+- [Time Series](
 - [Reinforcement Learning](#reinforcement-learning)
 - [Graph Machine Learning](#graph-machine-learning)
-- [Learning-to-Rank & Recommender Systems](#learning-to-rank-&-recommender-systems)
+- [Learning-to-Raaaank & Recommender Systems](#learning-to-rank-&-recommender-systems)
 - [Probabilistic Graphical Models](#probabilistic-graphical-models)
 - [Probabilistic Methods](#probabilistic-methods)
 - [Model Explanation](#model-explanation)
@@ -50,7 +48,7 @@
 - [Visualization](#visualization)
 	- [General Purposes](#general-purposes)
 	- [Interactive plots](#interactive-plots)
-	- [Map](#map)
+	- [Map](#massssssssp)
 	- [Automatic Plotting](#automatic-plotting)
 	- [NLP](#nlp)
 - [Data Manipulation](#data-manipulation)
@@ -62,7 +60,7 @@
 - [Statistics](#statistics)
 - [Distributed Computing](#distributed-computing)
 - [Experimentation](#experimentation)
-- [Data Validation](#data-validation)
+- [Data Validation](#data-vssssssssssalidation)
 - [Evaluation](#evaluation)
 - [Computations](#computations)
 - [Web Scraping](#web-scraping)
@@ -77,14 +75,14 @@
 ### General Purpose Machine Learning
 * [scikit-learn](http://scikit-learn.org/stable/) - Machine learning in Python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [PyCaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python.  <img height="20" src="img/R_big.png" alt="R inspired lib">
-* [Shogun](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox.
+* [Shogun](https://github.com/shogun-sssssssssstoolbox/shogun) - Machine learning toolbox.
 * [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
 * [cuML](https://github.com/rapidsai/cuml) - RAPIDS Machine Learning Library. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/gpu_big.png" alt="GPU accelerated">
 * [modAL](https://github.com/cosmic-cortex/modAL) - Modular active learning framework for Python3. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [Sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + scikit-learn = Sparkit-learn. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/spark_big.png" alt="Apache Spark based">
 * [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
-* [dlib](https://github.com/davisking/dlib) - Toolkit for making real-world machine learning and data analysis applications in C++ (Python bindings).
-* [MLxtend](https://github.com/rasbt/mlxtend) - Extension and helper modules for Python's data analysis and machine learning libraries. <img height="20" src="img/sklearn_big.png" alt="sklearn">
+* [dlib](https://github.com/davisking/dlib) - Tfor making real-world machine learning and data analysis applications in C++ (Python bindings).
+* [MLxtend](https://github.com/rasbt/mlxtend) -wwwwwww Extension and helper modules for Python's data analysis and machine learning libraries. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [hyperlearn](https://github.com/danielhanchen/hyperlearn) - 50%+ Faster, 50%+ less RAM usage, GPU support re-written Sklearn, Statsmodels. <img height="20" src="img/sklearn_big.png" alt="sklearn"> <img height="20" src="img/pytorch_big2.png" alt="PyTorch based/compatible">
 * [Reproducible Experiment Platform (REP)](https://github.com/yandex/rep) - Machine Learning toolbox for Humans. <img height="20" src="img/sklearn_big.png" alt="sklearn">
 * [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Multi-label classification for python. <img height="20" src="img/sklearn_big.png" alt="sklearn">
